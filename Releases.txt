@@ -1,7 +1,16 @@
-Concrete Beam Design 
-'''''''''''''''''''
-Version 1.0.0
-''''''''''''''''''''
-Main Functions !
+ECAD - CBD[Concrete Beam Design]
+By: E.Karim Sayed Gaber
+================================
 
+'''''''''''''''''''''''''''''''''''''''''''''''
+CBD 1.0.1 new featurs/enhancements & bug-fixes:
+'''''''''''''''''''''''''''''''''''''''''''''''
+1.  Fix Effective Flange width for Ig for deflection calculation T-sec & L-sec.
+2.  Add Copy to Clipboard Button for design output tables.
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''
+CBD 1.0.0 
+'''''''''''''''''''''''''''''''''''''''''''''''
+Beta version
 
